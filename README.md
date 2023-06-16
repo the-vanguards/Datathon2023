@@ -1,3 +1,3 @@
-# dowhy
+# Visualization and calculations
 
-Information to be added
+This code has both the jupyter notebooks used for the dowhy calculations, and the shinyapp used to visualize the created data.
